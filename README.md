@@ -24,11 +24,11 @@ Double-click the `frontier_keys_for_noritsu.ahk` file to run it (or let it auto-
 | Alt + [Color/Density Key] | reset just that color/density (back to N) |
 | Ctrl + Shift + [Color/Density Key] | copy that color/density to all following frames |
 | Shift + R | reset all colors (back to N) aka Color Key Cancel |
-| Alt + R | reset all colors and density (back to N) for current and all following frames |
+| Alt + R | reset all colors and density (back to N) |
 | V | PASS |
 | Shift + V | All PASS |
 | Space | HOLD |
-| F2 | Rotate the image CCW (Needs EZController 8+) |
+| F2 | Rotate the image 90 CCW (Needs EZController 8+) |
 | Shift + F2 | Rotate all images 180 |
 | Shift + Esc | quits the script entirely |
 
@@ -50,16 +50,19 @@ If you would rather have the keys match the Noritsu's YMCD button order, and hav
 | D | -C |
 | R | +D |
 | F | -D |
-| Shift + [Color/Density Key] | same as that key, but bump by 3 rather than 1 |
+| Shift + [Color/Density Key] | Same as that key, but bump by 3 rather than 1 |
 | Alt + [Color/Density Key] | reset that color/density (back to N) |
 | Ctrl + Shift + [Color/Density Key] | copy that color/density to all following frames |
 | Shift + X | reset all colors (back to N) aka Color Key Cancel |
-| Alt + X | reset all colors and density (back to N) for current and all following frames |
+| Alt + X | reset all colors and density |
 | V | PASS |
 | Shift + V | All PASS |
 | Space | HOLD |
-| F2 | Rotate the image CCW (Needs EZController 8+) |
+| F2 | Rotate the image 90 CCW (Needs EZController 8+) |
 | Shift + F2 | Rotate all images 180 |
 | Shift + Esc | quits the script entirely |
 
 Also, the [Q][W][E][R] and [A][S][D][F] keys can be used to bump up/down the sliders in the DSA menu.
+
+## Printable reference cards
+In the `printouts` directory, there are 2 PDFs you can print for quick reference (4x6 size).

@@ -62,10 +62,10 @@ x::Send "{F8}{F4}"
 ^+z::Send "{F1}{F8}"
 ^+c::Send "{F1}{F8}"
 
-; color key cancel
+; color key cancel (reset all colors)
 +r::Send "{F5}{F4}{F6}{F4}{F7}{F4}"
-; reset all and copy
-!r::Send "{F5}{F4}{F6}{F4}{F7}{F4}{F8}{F4}{F1}{F5}{F1}{F6}{F1}{F7}{F1}{F8}"
+; reset all (colors and density)
+!r::Send "{F5}{F4}{F6}{F4}{F7}{F4}{F8}{F4}"
 
 ; PASS
 v::Send "{F11}"
