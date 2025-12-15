@@ -2,12 +2,12 @@
 This AutoHotkey script lets you use Frontier-style keybindings while scanning on a Noritsu.
 
 ## Install
-Install [AutoHotkey](https://www.autohotkey.com) (v2) first, and then download the `frontier_keys_for_noritsu.ahk` file.
+Install [AutoHotkey](https://www.autohotkey.com) (v2) first, and then download [this file](frontier_keys_for_noritsu.ahk).
 
 To make the script auto-run when booting, move the script to your Startup folder in the Start Menu (press Windows+R and type `shell:startup` and hit Enter).
 
 ## Use
-Double-click the `frontier_keys_for_noritsu.ahk` file to run it (or let it auto-run if you did that). By default, the script has no effect until you enable it with Ctrl+Shift+F. The keybindings are:
+Double-click the `frontier_keys_for_noritsu.ahk` file to run it (or let it auto-run if you did that). By default, the script has no effect until you enable it with `Ctrl+Shift+F`. The full list of keybindings are:
 | Key | Effect |
 |-----|--------|
 | Ctrl + Shift + F | enable/disable these keybindings |
@@ -37,7 +37,7 @@ The keys above match the Frontier scanner's built-in keyboard layout, letting yo
 Also, the [Z] and [C] keys can be used to bump up/down the sliders in the DSA menu.
 
 ## Alternate bindings
-If you would rather have the keys match the Noritsu's YMCD button order, and have Q go up and A go down, download and run the `quick_keys_for_noritsu.ahk` file instead. The keybindings are:
+If you would rather have the keys match the Noritsu's YMCD button order, and have Q go up and A go down, download and run [this file](quick_keys_for_noritsu.ahk) instead. The keybindings are:
 
 | Key | Effect |
 |-----|--------|
@@ -65,4 +65,4 @@ If you would rather have the keys match the Noritsu's YMCD button order, and hav
 Also, the [Q][W][E][R] and [A][S][D][F] keys can be used to bump up/down the sliders in the DSA menu.
 
 ## Printable reference cards
-In the `printouts` directory, there are 2 PDFs you can print for quick reference (4x6 size).
+In the `printouts` directory, there are 2 PDFs you can print for quick reference (4x6 size), one for [Frontier style](printouts/noritsu-with-frontier-keys.pdf) and one for [Noritsu style](printouts/noritsu-quick-keys.pdf).
