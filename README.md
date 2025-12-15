@@ -2,7 +2,7 @@
 This AutoHotkey script lets you use Frontier-style keybindings while scanning on a Noritsu.
 
 ## Install
-Install [AutoHotkey](https://www.autohotkey.com) (v2) first, and then download [this file](frontier_keys_for_noritsu.ahk).
+Install [AutoHotkey](https://www.autohotkey.com) (v2) first, and then download [this file](frontier_keys_for_noritsu.ahk?raw=1).
 
 To make the script auto-run when booting, move the script to your Startup folder in the Start Menu (press Windows+R and type `shell:startup` and hit Enter).
 
@@ -37,7 +37,7 @@ The keys above match the Frontier scanner's built-in keyboard layout, letting yo
 Also, the [Z] and [C] keys can be used to bump up/down the sliders in the DSA menu.
 
 ## Alternate bindings
-If you would rather have the keys match the Noritsu's YMCD button order, and have Q go up and A go down, download and run [this file](quick_keys_for_noritsu.ahk) instead. The keybindings are:
+If you would rather have the keys match the Noritsu's YMCD button order, and have Q go up and A go down, download and run [this file](quick_keys_for_noritsu.ahk?raw=1) instead. The keybindings are:
 
 | Key | Effect |
 |-----|--------|
@@ -65,4 +65,4 @@ If you would rather have the keys match the Noritsu's YMCD button order, and hav
 Also, the [Q][W][E][R] and [A][S][D][F] keys can be used to bump up/down the sliders in the DSA menu.
 
 ## Printable reference cards
-In the `printouts` directory, there are 2 PDFs you can print for quick reference (4x6 size), one for [Frontier style](printouts/noritsu-with-frontier-keys.pdf) and one for [Noritsu style](printouts/noritsu-quick-keys.pdf).
+In the `printouts` directory, there are 2 PDFs you can print for quick reference (4x6 size), one for [Frontier style](printouts/noritsu-with-frontier-keys.pdf?raw=1) and one for [Noritsu style](printouts/noritsu-quick-keys.pdf?raw=1).
